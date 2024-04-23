@@ -1,0 +1,10 @@
+-	Khách hàng có thể gọi đồ ăn, chọn loại đồ ăn và cửa hàng.
+-	Khách hàng có thể thêm nhiều mặt hàng vào đơn hàng trước khi thanh toán.
+-	Khách hàng có thể hủy đơn hàng trước khi thanh toán.
+-	Khi đơn hàng được thanh toán, không được phép thay đổi.
+-	Khách hàng có thể thanh toán đơn hàng bằng thẻ tín dụng, thẻ debit hoặc tiền mặt.
+-	Khi đơn hàng được thanh toán, khách hàng có thể nhận được biên lai.
+-	Khi đơn hàng được thanh toán, bắt đầu quá trình chuẩn bị đơn hàng.
+-	Sau khi đơn hàng được chuẩn bị xong, đánh dấu đơn hàng đã sẵn sàng.
+-	Sau khi đơn hàng sẵn sàng, bắt đầu quá trình vận chuyển.
+-	Khi khách hàng nhận đơn, đơn hàng được đánh dấu là đã nhận.
